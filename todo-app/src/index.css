@@ -41,6 +41,15 @@ input[type="text"]{
   border-radius: 5px;
   border: 2px solid hsla(0, 0%, 80%, 0.5);
   color: grey;
+  text-align: left;
+} 
+input[type="time"]{
+  font-size: 1.5rem;
+  padding: 10px;
+  margin-right: 10px;
+  border-radius: 5px;
+  border: 2px solid hsla(0, 0%, 80%, 0.5);
+  color: grey;
 } 
 ol{
   padding: 0;
@@ -55,7 +64,7 @@ li{
   display: flex;
   align-items: center;
 }
-.text{
+.text {
   flex: 1;
 
 }
