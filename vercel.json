@@ -1,0 +1,5 @@
+{
+  "installCommand": "npm install --prefix todo-app",
+  "buildCommand": "npm run build --prefix todo-app",
+  "outputDirectory": "todo-app/dist"
+}
